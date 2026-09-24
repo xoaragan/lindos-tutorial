@@ -4,9 +4,9 @@ Vasta vegetacion, fauna escurridiza y un silencio sepulcral. Las criaturas de es
 
 "Alla donde fueres, haz lo que vieres"
 
-- Hacia el Norte: [Pico Tormenta]
+- Hacia el norte: [Pico Tormenta]
 - En su centro: [Valle Viejo]
-- Hacia el Suroeste: [Mina Abandonada]
+- Hacia el suroeste: [Mina Abandonada]
 
 
 [Pico Tormenta]: ../pico-tormenta/pico-tormenta.md
