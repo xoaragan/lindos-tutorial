@@ -1,8 +1,14 @@
 # Bosque Silencioso
 
-Vasta vegetacion, fauna escurridiza y un silencio sepulcral. Las criaturas de este bosque, tanto depredadores como presas, han aprendido que la unica manera de permanecer con vida es no romper el silencio que los envuelve. Los humanoides que se han visto obligados a atravesar el bosque, ya sea para llegar a [Valle Viejo][valle-viejo] o para extraer minerales y hierro de la [Mina Abandonada][mina-abandonada], han seguido su misma estrategia.
+Vasta vegetacion, fauna escurridiza y un silencio sepulcral. Las criaturas de este bosque, tanto depredadores como presas, han aprendido que la unica manera de permanecer con vida es no romper el silencio que los envuelve. Los humanoides que se han visto obligados a atravesar el bosque han seguido su misma estrategia. Ya sea para viajar desde [Pico Tormenta] hacia [Valle Viejo] o para llegar a su [Mina Abandonada]. 
 
 "Alla donde fueres, haz lo que vieres"
 
-[mina-abandonada]: ./mina-abandonada.md
-[valle-viejo]: ../valle-viejo/valle-viejo.md
+- Hacia el Norte: [Pico Tormenta]
+- En su centro: [Valle Viejo]
+- Hacia el Suroeste: [Mina Abandonada]
+
+
+[Pico Tormenta]: ../pico-tormenta/pico-tormenta.md
+[Mina Abandonada]: ./mina-abandonada.md
+[Valle Viejo]: ../valle-viejo/valle-viejo.md

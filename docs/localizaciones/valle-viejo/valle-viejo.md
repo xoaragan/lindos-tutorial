@@ -4,3 +4,5 @@ Antiguo asentamiento de la ciudad-estado de [Pico Tormenta], a unos cuarenta kil
 
 [Pico Tormenta]: ../pico-tormenta/pico-tormenta.md
 [Bosque Silencioso]: ../bosque-silencioso/bosque-silencioso.md
+
+- Rodeado por: [Bosque Silencioso]

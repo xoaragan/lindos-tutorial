@@ -6,5 +6,8 @@ Hola guapos :>. Voy a usar esta web estatica para colocar informacion general so
 
 En cualquier momento (dentro o fuera de la sesion) podreis entrar aqui para  refrescar cosas que hayan sucedido en la partida y que no recordeis.
 
+Os recomiendo empezar por [aqui]
+
 > Se aceptan sugerencias de "world-building" :]
 
+[aqui]: ./localizaciones/pico-tormenta/pico-tormenta.md
