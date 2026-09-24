@@ -1,0 +1,25 @@
+site_name: "Lindos: Roleo"
+theme:
+  name: material
+  font:
+    text: Crimson Text     # aire de libro antiguo, sin CSS
+    # code: se queda por defecto
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+
+plugins: []
+extra:
+  generator: false
